@@ -1,0 +1,18 @@
+2.times do
+  play :F
+  sleep 0.5
+  play :G
+  sleep 0.5
+  play :A
+  sleep 0.5
+  play :F
+  sleep 0.5
+end
+2.times do
+  play :A
+  sleep 0.5
+  play :B
+  sleep 0.5
+  play :C
+  sleep 1.0
+end
