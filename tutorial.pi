@@ -1,5 +1,5 @@
 play 72
-sleep 1
+sleep 0.0625
 play 75
-sleep 1
+sleep 0.0625
 play 79
