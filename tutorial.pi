@@ -1,3 +1,80 @@
-play :Fs3 # sharp note
-sleep 1
-play :Fb3 # flat note
+# chord D dur
+#play :A3
+#play :D3
+play :A4 
+play :D4 
+play :Fs4
+sleep 0.75
+# chord D7+
+play :A4 
+play :Cs4 
+play :Fs4
+sleep 0.75
+# chord D7
+play :A4 
+play :C4 
+play :Fs4
+sleep 0.75
+# chord D7+
+play :A4 
+play :Cs4 
+play :Fs4
+sleep 0.75
+# chord D dur
+#play :A3
+#play :D3
+play :A4 
+play :D4 
+play :Fs4
+sleep 0.75
+# chord D7+
+play :A4 
+play :Cs4 
+play :Fs4
+sleep 0.75
+# chord D7
+play :A4 
+play :C4 
+play :Fs4
+sleep 0.75
+# chord D7+
+play :A4 
+play :Cs4 
+play :Fs4
+sleep 0.75
+# chord D dur
+#play :A3
+#play :D3
+play :A4 
+play :D4 
+play :Fs4
+sleep 0.75
+# chord D7+
+play :A4 
+play :Cs4 
+play :Fs4
+sleep 0.75
+# chord D7
+play :A4 
+play :C4 
+play :Fs4
+sleep 0.75
+# chord D7+
+play :G4 
+play :D5 
+play :G5
+sleep 0.75
+
+# ref 
+
+# chord em7
+play :G3
+play :B3
+play :E4
+sleep 0.75
+
+# chord em7
+play :E3
+play :A3
+play :Cs5
+sleep 0.75
