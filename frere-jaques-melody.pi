@@ -1,6 +1,5 @@
+use_synth :tb303
 loop do
-  #use_synth :saw
-  use_synth :prophet
   2.times do
     play :F
     sleep 0.5
