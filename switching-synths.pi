@@ -1,11 +1,11 @@
 loop do
-  use_synth :prophet
+  use_synth :dsaw
   play 38
   sleep 0.25
-  use_synth :prophet
+  use_synth :dsaw
   play 50 
   sleep 0.25
-  use_synth :prophet
+  use_synth :dsaw
   play 57
   sleep 0.5
 end
