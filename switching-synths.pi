@@ -1,11 +1,11 @@
 loop do
-  use_synth :dsaw
-  play 38
+  use_synth :fm
+  play 68
   sleep 0.25
-  use_synth :dsaw
-  play 50 
+  use_synth :fm
+  play 80 
   sleep 0.25
-  use_synth :dsaw
-  play 57
+  use_synth :fm
+  play 87
   sleep 0.5
 end
