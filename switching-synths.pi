@@ -1,9 +1,11 @@
-# switch default beep synth 
+# switch default beep synth
 # to saw synth
-use_synth :saw
-play 38
-sleep 0.25
-play 50
-sleep 0.25
-play 62
-sleep 0.25
+use_synth :prophet
+loop do
+  play 38
+  sleep 0.25
+  play 50
+  sleep 0.25
+  play 62
+  sleep 0.5
+end
