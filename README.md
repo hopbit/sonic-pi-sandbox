@@ -1,1 +1,4 @@
-next chapter: 2.3
+# Progress
+
+Next chapter to read: 2.3
+
