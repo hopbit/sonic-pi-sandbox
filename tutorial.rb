@@ -1,1 +1,0 @@
-play 65, cheese: 1, beans: 0.5
