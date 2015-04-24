@@ -13,5 +13,7 @@ Next chapter to read: 2.3
 * https://www.youtube.com/watch?v=ixn6d4qSK5I
 
 # Read Links
-
+	
 * https://github.com/samaaron/sonic-pi/wiki/Getting-Started
+
+
