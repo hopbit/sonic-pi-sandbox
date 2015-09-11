@@ -1,14 +1,8 @@
 # Live Coding Buffer
-#use_sample_pack "D:/hopbit/dev/workspace/workshops/overtone-workshop/resources"
-#use_sample_pack "D:/hopbit/dev/workspace/workshops/overtone-workshop/resources/dubstep"
-#use_sample_pack "D:/hopbit/dev/workspace/workshops/overtone-workshop/resources/house"
-#use_sample_pack "D:/hopbit/dev/workspace/workshops/overtone-workshop/resources/lights"
-#sample "D:/hopbit/dev/workspace/workshops/overtone-workshop/resources/dubstep/db.wav"
 
-# hmmm.... quite nice "rmx" ?
-# should be enought for tonight.
-
-
+# below sample pack can be cloned from here: 
+# https://github.com/hopbit/overtone-workshop
+# or here: https://github.com/pjagielski/overtone-workshop
 use_sample_pack "D:/hopbit/dev/workspace/workshops/overtone-workshop/resources/daft"
 use_bpm 129
 
