@@ -4,6 +4,15 @@
 # https://github.com/hopbit/overtone-workshop
 # or here: https://github.com/pjagielski/overtone-workshop
 use_sample_pack "D:/hopbit/dev/workspace/workshops/overtone-workshop/resources/daft"
+
+define :ssd do |s|
+  sleep sample_duration(s)
+end
+
+define :ssd2 do |s,m|
+  sleep sample_duration(s)*m
+end
+
 use_bpm 129
 
 live_loop :melody do
